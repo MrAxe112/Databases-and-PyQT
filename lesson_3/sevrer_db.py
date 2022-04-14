@@ -129,24 +129,12 @@ class ServerStorage:
 
 if __name__ == '__main__':
     test_db = ServerStorage()
-    # Выполняем "подключение" пользователя
-    test_db.user_login('uga_buga', '192.168.1.4', 8080)
+
+    test_db.user_login('client_1', '192.168.1.4', 8080)
     test_db.user_login('client_2', '192.168.1.5', 7777)
 
-    # Выводим список кортежей - активных пользователей
-    print(' ---- test_db.active_users_list() ----')
     print(test_db.active_users_list())
-
-    # Выполняем "отключение" пользователя
     test_db.user_logout('client_1')
-    # И выводим список активных пользователей
-    print(' ---- test_db.active_users_list() after logout client_1 ----')
     print(test_db.active_users_list())
-
-    # Запрашиваем историю входов по пользователю
-    print(' ---- test_db.login_history(client_1) ----')
-    print(test_db.login_history('client_1'))
-
-    # и выводим список известных пользователей
-    print(' ---- test_db.users_list() ----')
+    print(test_db.login_history('client_2'))
     print(test_db.users_list())
