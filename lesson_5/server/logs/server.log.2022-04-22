@@ -1,0 +1,1485 @@
+2022-04-18 00:01:43,765 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 00:09:44,974 INFO server.py Установлено соедение с ПК ('127.0.0.1', 54488)
+2022-04-18 00:09:44,977 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54488)>,), {}
+
+2022-04-18 00:09:45,157 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=616, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54488)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 00:09:56,253 INFO server.py Клиент ('127.0.0.1', 54488) отключился от сервера. Ошибка: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение.
+2022-04-18 00:23:58,326 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 00:24:12,641 INFO server.py Установлено соедение с ПК ('127.0.0.1', 54731)
+2022-04-18 00:24:13,657 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=384, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54731)>,), {}
+
+2022-04-18 00:24:13,913 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=384, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 54731)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 00:41:41,670 INFO server.py Клиент ('127.0.0.1', 54731) отключился от сервера. Ошибка: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение.
+2022-04-18 23:28:16,751 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:28:21,290 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58150)
+2022-04-18 23:28:22,337 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58150)>,), {}
+
+2022-04-18 23:28:22,540 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58150)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:28:23,541 INFO server.py Клиент ('127.0.0.1', 58150) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:29:03,661 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58156)
+2022-04-18 23:29:04,661 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=496, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58156)>,), {}
+
+2022-04-18 23:29:04,677 INFO server.py Клиент ('127.0.0.1', 58156) отключился от сервера. Ошибка: (sqlite3.IntegrityError) UNIQUE constraint failed: Active_Users.user
+[SQL: INSERT INTO "Active_Users" (user, ip_address, port, login_time) VALUES (?, ?, ?, ?)]
+[parameters: (4, '127.0.0.1', 58156, '2022-04-18 23:29:04.677532')]
+(Background on this error at: https://sqlalche.me/e/14/gkpj).
+2022-04-18 23:29:12,603 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:29:15,754 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58158)
+2022-04-18 23:29:16,759 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=620, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58158)>,), {}
+
+2022-04-18 23:29:16,977 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=620, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58158)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:29:17,978 INFO server.py Клиент ('127.0.0.1', 58158) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:30:23,491 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:30:26,025 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58165)
+2022-04-18 23:30:27,025 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58165)>,), {}
+
+2022-04-18 23:30:27,228 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58165)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:30:28,244 INFO server.py Клиент ('127.0.0.1', 58165) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:45:19,449 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:45:23,387 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58257)
+2022-04-18 23:45:24,387 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=696, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58257)>,), {}
+
+2022-04-18 23:45:24,590 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=696, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58257)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:45:25,591 INFO server.py Клиент ('127.0.0.1', 58257) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:45:46,168 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:45:47,514 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58263)
+2022-04-18 23:45:48,530 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58263)>,), {}
+
+2022-04-18 23:45:48,701 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58263)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:45:49,702 INFO server.py Клиент ('127.0.0.1', 58263) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:47:48,518 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:47:49,722 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58282)
+2022-04-18 23:47:50,722 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=464, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58282)>,), {}
+
+2022-04-18 23:47:50,831 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=464, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58282)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:47:51,832 INFO server.py Клиент ('127.0.0.1', 58282) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:48:19,408 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:48:20,931 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58286)
+2022-04-18 23:48:21,933 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58286)>,), {}
+
+2022-04-18 23:48:22,152 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58286)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:48:23,152 INFO server.py Клиент ('127.0.0.1', 58286) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:49:38,677 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:49:41,177 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58296)
+2022-04-18 23:49:42,177 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=632, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58296)>,), {}
+
+2022-04-18 23:49:42,333 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=632, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58296)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:49:43,334 INFO server.py Клиент ('127.0.0.1', 58296) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:50:03,976 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:50:05,241 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58299)
+2022-04-18 23:50:06,241 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=156, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58299)>,), {}
+
+2022-04-18 23:50:06,382 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=156, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58299)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:50:07,382 INFO server.py Клиент ('127.0.0.1', 58299) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:50:18,211 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:50:19,539 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58304)
+2022-04-18 23:50:20,540 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58304)>,), {}
+
+2022-04-18 23:50:20,650 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58304)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:50:21,650 INFO server.py Клиент ('127.0.0.1', 58304) отключился от сервера. Ошибка: [WinError 10053] Программа на вашем хост-компьютере разорвала установленное подключение.
+2022-04-18 23:52:51,340 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-18 23:52:53,939 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58344)
+2022-04-18 23:52:54,939 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58344)>,), {}
+
+2022-04-18 23:52:55,142 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58344)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-18 23:52:56,143 INFO server.py Клиент ('127.0.0.1', 58344) отключился от сервера. Ошибка: Expecting value: line 1 column 1 (char 0).
+2022-04-19 00:08:05,460 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 00:08:07,616 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58476)
+2022-04-19 00:08:08,619 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58476)>,), {}
+
+2022-04-19 00:08:08,791 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58476)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 00:11:08,689 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 00:11:11,022 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58503)
+2022-04-19 00:11:12,022 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58503)>,), {}
+
+2022-04-19 00:11:12,147 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58503)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 00:12:17,535 INFO server.py Клиент ('127.0.0.1', 58503) отключился от сервера. Ошибка: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение.
+2022-04-19 00:12:23,057 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 00:12:26,387 INFO server.py Установлено соедение с ПК ('127.0.0.1', 58521)
+2022-04-19 00:12:27,387 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58521)>,), {}
+
+2022-04-19 00:12:27,527 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58521)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 19:34:50,958 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 19:34:55,208 INFO server.py Установлено соедение с ПК ('127.0.0.1', 59442)
+2022-04-19 19:34:56,257 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59442)>,), {}
+
+2022-04-19 19:34:56,429 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59442)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 20:00:20,648 INFO server.py Клиент ('127.0.0.1', 59442) отключился от сервера. Ошибка: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение.
+2022-04-19 20:01:36,788 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 20:01:38,703 INFO server.py Установлено соедение с ПК ('127.0.0.1', 59737)
+2022-04-19 20:01:39,723 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59737)>,), {}
+
+2022-04-19 20:01:39,908 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59737)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 20:03:44,257 INFO server.py Клиент ('127.0.0.1', 59737) отключился от сервера. Ошибка: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение.
+2022-04-19 20:03:47,563 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 20:03:53,288 INFO server.py Установлено соедение с ПК ('127.0.0.1', 59749)
+2022-04-19 20:03:54,303 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59749)>,), {}
+
+2022-04-19 20:03:54,488 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59749)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 20:06:32,958 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 20:06:35,838 INFO server.py Установлено соедение с ПК ('127.0.0.1', 59770)
+2022-04-19 20:06:36,853 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59770)>,), {}
+
+2022-04-19 20:06:37,043 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59770)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 20:06:57,334 INFO server.py Клиент ('127.0.0.1', 59770) отключился от сервера. Ошибка: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение.
+2022-04-19 20:12:11,499 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-19 20:12:16,089 INFO server.py Установлено соедение с ПК ('127.0.0.1', 59815)
+2022-04-19 20:12:17,099 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59815)>,), {}
+
+2022-04-19 20:12:17,319 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59815)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-19 20:12:18,338 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59815)>,), {}
+
+2022-04-19 20:12:18,343 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59815)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-19 20:12:19,359 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59815)>,), {}
+
+2022-04-19 20:12:19,359 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=572, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59815)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-19 20:12:37,508 INFO server.py Клиент ('127.0.0.1', 59815) отключился от сервера. Ошибка: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение.
+2022-04-20 00:43:50,909 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 00:44:07,879 INFO server.py Установлено соедение с ПК ('127.0.0.1', 62409)
+2022-04-20 00:44:08,904 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=612, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62409)>,), {}
+
+2022-04-20 00:44:44,189 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 00:44:54,176 INFO server.py Установлено соедение с ПК ('127.0.0.1', 62415)
+2022-04-20 00:44:55,179 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=356, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62415)>,), {}
+
+2022-04-20 00:45:24,129 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 00:45:27,849 INFO server.py Установлено соедение с ПК ('127.0.0.1', 62420)
+2022-04-20 00:45:28,869 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62420)>,), {}
+
+2022-04-20 00:45:29,069 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62420)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 00:45:30,079 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62420)>,), {}
+
+2022-04-20 00:45:30,079 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62420)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 00:45:31,089 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62420)>,), {}
+
+2022-04-20 00:45:31,094 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=624, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62420)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 00:46:10,479 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 00:46:13,399 INFO server.py Установлено соедение с ПК ('127.0.0.1', 62427)
+2022-04-20 00:46:14,424 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62427)>,), {}
+
+2022-04-20 00:46:14,639 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62427)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 00:46:15,659 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62427)>,), {}
+
+2022-04-20 00:46:15,659 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62427)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 00:46:16,679 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62427)>,), {}
+
+2022-04-20 00:46:16,684 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62427)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 18:53:35,703 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 18:53:42,825 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63046)
+2022-04-20 18:53:43,872 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63046)>,), {}
+
+2022-04-20 18:53:44,138 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63046)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 18:53:45,138 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63046)>,), {}
+
+2022-04-20 18:53:45,138 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63046)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 18:53:46,146 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63046)>,), {}
+
+2022-04-20 18:53:46,146 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63046)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 18:53:54,213 INFO server.py Клиент ('127.0.0.1', 63046) отключился от сервера.
+2022-04-20 18:58:00,335 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 18:58:03,447 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63081)
+2022-04-20 18:58:04,450 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63081)>,), {}
+
+2022-04-20 18:58:04,668 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63081)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 18:58:05,684 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63081)>,), {}
+
+2022-04-20 18:58:05,684 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63081)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 18:58:06,685 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63081)>,), {}
+
+2022-04-20 18:58:06,685 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63081)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 19:07:12,322 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 19:07:15,071 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63207)
+2022-04-20 19:07:16,094 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63207)>,), {}
+
+2022-04-20 19:07:16,305 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63207)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 19:07:17,319 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63207)>,), {}
+
+2022-04-20 19:07:17,322 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63207)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 19:07:18,325 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63207)>,), {}
+
+2022-04-20 19:07:18,325 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63207)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 19:08:08,866 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 19:08:11,211 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63219)
+2022-04-20 19:08:12,229 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63219)>,), {}
+
+2022-04-20 19:08:12,405 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63219)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 19:08:13,409 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63219)>,), {}
+
+2022-04-20 19:08:13,503 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63219)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 19:08:14,515 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63219)>,), {}
+
+2022-04-20 19:08:14,518 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63219)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 19:17:30,446 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 19:17:35,457 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63291)
+2022-04-20 19:17:36,483 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63291)>,), {}
+
+2022-04-20 19:17:36,754 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63291)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 19:17:37,761 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63291)>,), {}
+
+2022-04-20 19:17:37,764 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63291)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 19:17:38,776 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63291)>,), {}
+
+2022-04-20 19:17:38,779 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=592, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63291)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 21:15:36,204 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 21:15:40,369 INFO server.py Установлено соедение с ПК ('127.0.0.1', 65073)
+2022-04-20 21:15:41,385 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 65073)>,), {}
+
+2022-04-20 21:15:41,655 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 65073)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 21:15:42,668 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 65073)>,), {}
+
+2022-04-20 21:25:58,887 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 21:26:01,934 INFO server.py Установлено соедение с ПК ('127.0.0.1', 65229)
+2022-04-20 21:26:02,944 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 65229)>,), {}
+
+2022-04-20 21:26:03,447 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 65229)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 21:26:04,454 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 65229)>,), {}
+
+2022-04-20 22:07:12,374 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:07:19,259 INFO server.py Установлено соедение с ПК ('127.0.0.1', 49409)
+2022-04-20 22:07:20,270 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49409)>,), {}
+
+2022-04-20 22:07:20,459 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49409)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:07:21,465 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49409)>,), {}
+
+2022-04-20 22:14:16,928 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:14:21,465 INFO server.py Установлено соедение с ПК ('127.0.0.1', 49500)
+2022-04-20 22:14:22,472 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49500)>,), {}
+
+2022-04-20 22:14:22,722 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49500)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:14:23,742 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49500)>,), {}
+
+2022-04-20 22:22:54,218 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:22:57,550 INFO server.py Установлено соедение с ПК ('127.0.0.1', 49626)
+2022-04-20 22:22:58,566 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49626)>,), {}
+
+2022-04-20 22:22:58,796 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49626)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:22:59,799 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49626)>,), {}
+
+2022-04-20 22:30:17,131 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:30:22,031 INFO server.py Установлено соедение с ПК ('127.0.0.1', 49745)
+2022-04-20 22:30:23,057 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=148, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49745)>,), {}
+
+2022-04-20 22:30:23,262 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=148, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49745)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:30:24,266 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=148, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49745)>,), {}
+
+2022-04-20 22:38:41,247 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:38:43,897 INFO server.py Установлено соедение с ПК ('127.0.0.1', 49862)
+2022-04-20 22:38:44,909 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=588, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49862)>,), {}
+
+2022-04-20 22:38:45,137 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=588, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49862)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:38:46,147 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=588, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49862)>,), {}
+
+2022-04-20 22:43:23,257 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:43:26,722 INFO server.py Установлено соедение с ПК ('127.0.0.1', 49935)
+2022-04-20 22:43:27,727 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49935)>,), {}
+
+2022-04-20 22:43:27,897 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49935)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:43:28,897 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49935)>,), {}
+
+2022-04-20 22:43:28,907 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49935)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 22:43:29,917 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49935)>,), {}
+
+2022-04-20 22:43:29,917 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 49935)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 22:49:30,008 INFO server.py Клиент ('127.0.0.1', 49935) отключился от сервера.
+2022-04-20 22:49:35,678 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:49:38,192 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50027)
+2022-04-20 22:49:39,198 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50027)>,), {}
+
+2022-04-20 22:49:39,438 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50027)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:49:40,447 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50027)>,), {}
+
+2022-04-20 22:49:40,447 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50027)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 22:49:41,458 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50027)>,), {}
+
+2022-04-20 22:49:41,458 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50027)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 22:50:10,297 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:50:13,398 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50039)
+2022-04-20 22:50:14,423 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50039)>,), {}
+
+2022-04-20 22:50:14,668 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50039)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:50:15,688 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50039)>,), {}
+
+2022-04-20 22:50:15,692 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50039)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 22:50:16,697 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50039)>,), {}
+
+2022-04-20 22:50:16,697 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=344, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50039)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 22:50:43,048 INFO server.py Клиент ('127.0.0.1', 50039) отключился от сервера.
+2022-04-20 22:50:46,552 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:50:48,868 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50046)
+2022-04-20 22:50:49,868 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50046)>,), {}
+
+2022-04-20 22:50:50,165 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50046)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:50:51,168 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50046)>,), {}
+
+2022-04-20 22:50:51,168 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50046)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 22:50:52,188 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50046)>,), {}
+
+2022-04-20 22:50:52,190 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50046)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 22:52:28,288 INFO server.py Клиент ('127.0.0.1', 50046) отключился от сервера.
+2022-04-20 22:52:34,228 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:52:37,553 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50078)
+2022-04-20 22:52:38,567 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50078)>,), {}
+
+2022-04-20 22:52:38,708 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50078)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:52:39,728 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50078)>,), {}
+
+2022-04-20 22:52:39,728 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50078)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 22:52:40,738 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50078)>,), {}
+
+2022-04-20 22:52:40,742 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=352, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50078)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 22:53:12,758 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:53:15,698 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50087)
+2022-04-20 22:53:16,708 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50087)>,), {}
+
+2022-04-20 22:53:16,943 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50087)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:53:17,943 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50087)>,), {}
+
+2022-04-20 22:53:17,952 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50087)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 22:53:18,958 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50087)>,), {}
+
+2022-04-20 22:53:18,963 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50087)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 22:54:03,498 INFO server.py Клиент ('127.0.0.1', 50087) отключился от сервера.
+2022-04-20 22:59:40,932 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 22:59:43,960 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50162)
+2022-04-20 22:59:44,966 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=292, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50162)>,), {}
+
+2022-04-20 22:59:45,203 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=292, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50162)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 22:59:46,205 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=292, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50162)>,), {}
+
+2022-04-20 22:59:46,205 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=292, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50162)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 22:59:47,205 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=292, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50162)>,), {}
+
+2022-04-20 22:59:47,205 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=292, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50162)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 23:00:56,522 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 23:00:59,679 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50187)
+2022-04-20 23:01:00,699 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50187)>,), {}
+
+2022-04-20 23:01:00,945 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50187)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:01:01,952 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50187)>,), {}
+
+2022-04-20 23:01:01,967 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50187)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:01:02,976 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50187)>,), {}
+
+2022-04-20 23:01:02,976 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50187)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 23:01:14,035 INFO server.py Клиент ('127.0.0.1', 50187) отключился от сервера.
+2022-04-20 23:01:15,543 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50194)
+2022-04-20 23:01:16,545 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>,), {}
+
+2022-04-20 23:01:16,763 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50194)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:01:54,702 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 23:01:56,218 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50198)
+2022-04-20 23:01:57,218 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50198)>,), {}
+
+2022-04-20 23:01:57,437 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50198)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:01:58,452 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50198)>,), {}
+
+2022-04-20 23:01:58,452 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50198)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:01:59,468 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50198)>,), {}
+
+2022-04-20 23:01:59,468 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50198)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 23:03:21,067 INFO server.py Клиент ('127.0.0.1', 50198) отключился от сервера.
+2022-04-20 23:03:22,411 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50224)
+2022-04-20 23:03:23,411 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50224)>,), {}
+
+2022-04-20 23:03:23,598 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50224)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:03:24,599 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50224)>,), {}
+
+2022-04-20 23:03:24,599 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50224)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:03:25,599 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50224)>,), {}
+
+2022-04-20 23:03:25,599 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50224)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 23:05:18,326 INFO server.py Клиент ('127.0.0.1', 50224) отключился от сервера.
+2022-04-20 23:05:23,459 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 23:05:25,944 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50251)
+2022-04-20 23:05:26,948 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>,), {}
+
+2022-04-20 23:05:27,135 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:05:28,136 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>,), {}
+
+2022-04-20 23:05:28,136 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:05:29,138 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>,), {}
+
+2022-04-20 23:05:29,138 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=504, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50251)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 23:07:00,727 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 23:07:03,995 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50270)
+2022-04-20 23:07:04,998 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>,), {}
+
+2022-04-20 23:07:05,263 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:07:06,264 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>,), {}
+
+2022-04-20 23:07:06,264 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:07:07,264 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>,), {}
+
+2022-04-20 23:07:07,264 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50270)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:09:07,517 INFO server.py Клиент ('127.0.0.1', 50270) отключился от сервера.
+2022-04-20 23:16:55,508 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 23:16:59,638 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50400)
+2022-04-20 23:17:00,658 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50400)>,), {}
+
+2022-04-20 23:17:00,843 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50400)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:17:01,848 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50400)>,), {}
+
+2022-04-20 23:17:01,857 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50400)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:17:02,868 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50400)>,), {}
+
+2022-04-20 23:17:02,883 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50400)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:21:07,438 INFO server.py Клиент ('127.0.0.1', 50400) отключился от сервера.
+2022-04-20 23:21:09,448 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50464)
+2022-04-20 23:21:10,478 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50464)>,), {}
+
+2022-04-20 23:21:10,648 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50464)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:21:11,658 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50464)>,), {}
+
+2022-04-20 23:21:11,658 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50464)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:21:12,668 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50464)>,), {}
+
+2022-04-20 23:21:12,678 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50464)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:22:35,678 INFO server.py Клиент ('127.0.0.1', 50464) отключился от сервера.
+2022-04-20 23:22:37,808 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50492)
+2022-04-20 23:22:38,818 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50492)>,), {}
+
+2022-04-20 23:22:38,988 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50492)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:22:39,993 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50492)>,), {}
+
+2022-04-20 23:22:39,993 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50492)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:22:41,013 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50492)>,), {}
+
+2022-04-20 23:22:41,018 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50492)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:25:24,698 INFO server.py Клиент ('127.0.0.1', 50492) отключился от сервера.
+2022-04-20 23:25:26,698 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50528)
+2022-04-20 23:25:27,718 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50528)>,), {}
+
+2022-04-20 23:25:27,908 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50528)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:25:28,928 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50528)>,), {}
+
+2022-04-20 23:25:28,938 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50528)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:25:29,948 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50528)>,), {}
+
+2022-04-20 23:25:29,953 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=368, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50528)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:26:10,468 INFO server.py Клиент ('127.0.0.1', 50528) отключился от сервера.
+2022-04-20 23:26:12,888 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50535)
+2022-04-20 23:26:13,899 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50535)>,), {}
+
+2022-04-20 23:26:14,138 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50535)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:26:15,149 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50535)>,), {}
+
+2022-04-20 23:26:15,153 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50535)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:26:16,169 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50535)>,), {}
+
+2022-04-20 23:26:16,178 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=380, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50535)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:27:51,758 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-20 23:27:55,846 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50562)
+2022-04-20 23:27:56,848 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50562)>,), {}
+
+2022-04-20 23:27:57,071 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50562)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:27:58,088 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50562)>,), {}
+
+2022-04-20 23:27:58,088 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50562)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:27:59,098 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50562)>,), {}
+
+2022-04-20 23:27:59,108 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50562)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:31:09,496 INFO server.py Клиент ('127.0.0.1', 50562) отключился от сервера.
+2022-04-20 23:31:11,248 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50625)
+2022-04-20 23:31:12,253 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>,), {}
+
+2022-04-20 23:31:12,557 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:31:13,566 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>,), {}
+
+2022-04-20 23:31:13,571 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:31:14,586 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>,), {}
+
+2022-04-20 23:31:14,589 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=424, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50625)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:32:56,303 INFO server.py Клиент ('127.0.0.1', 50625) отключился от сервера.
+2022-04-20 23:32:58,816 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50655)
+2022-04-20 23:32:59,823 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>,), {}
+
+2022-04-20 23:33:00,003 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:33:01,010 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>,), {}
+
+2022-04-20 23:33:01,013 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:33:02,016 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>,), {}
+
+2022-04-20 23:33:02,024 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:33:05,055 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>,), {}
+
+2022-04-20 23:33:05,059 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50655)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 23:33:06,063 INFO server.py Клиент ('127.0.0.1', 50655) отключился от сервера.
+2022-04-20 23:36:58,915 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50755)
+2022-04-20 23:36:59,915 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50755)>,), {}
+
+2022-04-20 23:37:00,128 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50755)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:37:01,145 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50755)>,), {}
+
+2022-04-20 23:37:01,145 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50755)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:37:02,155 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50755)>,), {}
+
+2022-04-20 23:37:02,165 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50755)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:37:06,205 INFO server.py Клиент ('127.0.0.1', 50755) отключился от сервера.
+2022-04-20 23:37:48,785 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50773)
+2022-04-20 23:37:49,785 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>,), {}
+
+2022-04-20 23:37:50,012 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-20 23:37:51,025 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>,), {}
+
+2022-04-20 23:37:51,025 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-20 23:37:52,045 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>,), {}
+
+2022-04-20 23:37:52,055 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>, {'response': '202', 'alert': []}), {}
+
+2022-04-20 23:37:55,075 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>,), {}
+
+2022-04-20 23:37:55,075 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 50773)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-20 23:37:56,075 INFO server.py Клиент ('127.0.0.1', 50773) отключился от сервера.
+2022-04-20 23:55:26,613 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:06:39,333 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:10:08,010 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:10:12,494 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51178)
+2022-04-21 00:10:13,501 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>,), {}
+
+2022-04-21 00:10:13,694 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:10:14,709 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>,), {}
+
+2022-04-21 00:10:14,712 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:10:15,722 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>,), {}
+
+2022-04-21 00:10:15,722 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:10:51,684 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51191)
+2022-04-21 00:10:52,692 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51191)>,), {}
+
+2022-04-21 00:10:52,882 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51191)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:10:53,886 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51191)>,), {}
+
+2022-04-21 00:10:53,890 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51191)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:10:54,897 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51191)>,), {}
+
+2022-04-21 00:10:54,897 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51191)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:13:27,487 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>,), {}
+
+2022-04-21 00:13:27,487 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51178)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-21 00:13:28,498 INFO server.py Клиент ('127.0.0.1', 51178) отключился от сервера.
+2022-04-21 00:13:33,674 INFO server.py Клиент ('127.0.0.1', 51191) отключился от сервера.
+2022-04-21 00:13:48,006 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51229)
+2022-04-21 00:13:49,018 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>,), {}
+
+2022-04-21 00:13:49,173 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:13:50,183 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>,), {}
+
+2022-04-21 00:13:50,183 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:13:51,197 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>,), {}
+
+2022-04-21 00:13:51,197 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51229)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:14:12,382 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51234)
+2022-04-21 00:14:13,383 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51234)>,), {}
+
+2022-04-21 00:14:13,555 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51234)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:14:14,557 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51234)>,), {}
+
+2022-04-21 00:14:14,557 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51234)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:14:15,571 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51234)>,), {}
+
+2022-04-21 00:14:15,571 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51234)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:15:17,774 INFO server.py Клиент ('127.0.0.1', 51229) отключился от сервера.
+2022-04-21 00:15:21,696 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51248)
+2022-04-21 00:15:22,696 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>,), {}
+
+2022-04-21 00:15:22,924 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:15:23,924 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>,), {}
+
+2022-04-21 00:15:23,924 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:15:24,930 INFO server.py Клиент ('127.0.0.1', 51234) отключился от сервера.
+2022-04-21 00:15:25,055 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>,), {}
+
+2022-04-21 00:15:25,071 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:15:32,738 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51250)
+2022-04-21 00:15:33,738 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51250)>,), {}
+
+2022-04-21 00:15:33,894 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51250)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:15:34,895 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51250)>,), {}
+
+2022-04-21 00:15:34,895 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51250)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:15:35,911 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51250)>,), {}
+
+2022-04-21 00:15:35,926 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51250)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:17:12,494 INFO server.py Клиент ('127.0.0.1', 51250) отключился от сервера.
+2022-04-21 00:17:14,604 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>,), {}
+
+2022-04-21 00:17:14,604 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=408, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51248)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-21 00:17:15,611 INFO server.py Клиент ('127.0.0.1', 51248) отключился от сервера.
+2022-04-21 00:18:33,199 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51293)
+2022-04-21 00:18:34,199 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51293)>,), {}
+
+2022-04-21 00:18:34,360 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51293)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:18:35,375 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51293)>,), {}
+
+2022-04-21 00:18:35,375 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51293)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:18:36,376 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51293)>,), {}
+
+2022-04-21 00:18:36,376 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51293)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:18:57,511 INFO server.py Клиент ('127.0.0.1', 51293) отключился от сервера.
+2022-04-21 00:19:05,636 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51307)
+2022-04-21 00:19:06,636 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51307)>,), {}
+
+2022-04-21 00:19:06,808 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51307)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:19:07,808 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51307)>,), {}
+
+2022-04-21 00:19:07,808 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51307)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:19:08,814 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51307)>,), {}
+
+2022-04-21 00:19:08,814 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=584, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51307)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:20:00,133 INFO server.py Клиент ('127.0.0.1', 51307) отключился от сервера.
+2022-04-21 00:20:04,889 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51319)
+2022-04-21 00:20:05,889 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51319)>,), {}
+
+2022-04-21 00:20:06,076 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51319)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:20:07,077 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51319)>,), {}
+
+2022-04-21 00:20:07,077 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51319)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:20:08,093 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51319)>,), {}
+
+2022-04-21 00:20:08,093 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51319)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:20:51,350 INFO server.py Клиент ('127.0.0.1', 51319) отключился от сервера.
+2022-04-21 00:20:56,931 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51329)
+2022-04-21 00:20:57,931 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51329)>,), {}
+
+2022-04-21 00:20:58,103 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51329)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:20:59,118 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51329)>,), {}
+
+2022-04-21 00:20:59,118 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51329)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:21:00,131 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51329)>,), {}
+
+2022-04-21 00:21:00,131 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51329)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:21:18,252 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51329)>,), {}
+
+2022-04-21 00:21:41,385 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:21:47,283 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51349)
+2022-04-21 00:21:48,283 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51349)>,), {}
+
+2022-04-21 00:21:48,502 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51349)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:21:49,518 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51349)>,), {}
+
+2022-04-21 00:21:49,518 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51349)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:21:50,519 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51349)>,), {}
+
+2022-04-21 00:21:50,534 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51349)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:21:56,005 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51350)
+2022-04-21 00:21:57,020 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51350)>,), {}
+
+2022-04-21 00:21:57,395 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51350)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:21:58,396 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51350)>,), {}
+
+2022-04-21 00:21:58,396 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51350)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:21:59,412 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51350)>,), {}
+
+2022-04-21 00:21:59,412 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=396, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51350)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:22:09,473 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51349)>,), {}
+
+2022-04-21 00:23:58,712 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:24:11,708 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51373)
+2022-04-21 00:24:12,710 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51373)>,), {}
+
+2022-04-21 00:24:12,929 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51373)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:24:13,944 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51373)>,), {}
+
+2022-04-21 00:24:13,944 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51373)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:24:14,959 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51373)>,), {}
+
+2022-04-21 00:24:14,974 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51373)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:24:22,123 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51375)
+2022-04-21 00:24:23,123 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=636, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51375)>,), {}
+
+2022-04-21 00:24:23,279 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=636, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51375)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:24:24,280 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=636, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51375)>,), {}
+
+2022-04-21 00:24:24,280 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=636, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51375)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:24:25,280 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=636, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51375)>,), {}
+
+2022-04-21 00:24:25,280 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=636, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51375)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:24:36,346 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=636, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51375)>,), {}
+
+2022-04-21 00:26:27,377 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:26:32,949 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51422)
+2022-04-21 00:26:33,950 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51422)>,), {}
+
+2022-04-21 00:26:34,122 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51422)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:26:35,122 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51422)>,), {}
+
+2022-04-21 00:26:35,122 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51422)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:26:36,122 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51422)>,), {}
+
+2022-04-21 00:26:36,138 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51422)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:26:39,702 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51423)
+2022-04-21 00:26:40,702 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51423)>,), {}
+
+2022-04-21 00:26:40,858 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51423)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:26:41,859 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51423)>,), {}
+
+2022-04-21 00:26:41,859 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51423)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:26:42,874 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51423)>,), {}
+
+2022-04-21 00:26:42,874 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51423)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:26:51,919 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=640, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51423)>,), {}
+
+2022-04-21 00:29:13,534 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:29:16,092 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51459)
+2022-04-21 00:29:17,102 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51459)>,), {}
+
+2022-04-21 00:29:17,306 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51459)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:29:18,322 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51459)>,), {}
+
+2022-04-21 00:29:18,322 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51459)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:29:18,572 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51460)
+2022-04-21 00:29:18,572 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51459)>,), {}
+
+2022-04-21 00:29:18,572 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51459)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:29:19,572 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51460)>,), {}
+
+2022-04-21 00:29:19,744 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51460)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:29:20,744 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51460)>,), {}
+
+2022-04-21 00:29:20,744 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51460)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:29:21,744 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51460)>,), {}
+
+2022-04-21 00:29:21,744 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51460)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:29:31,813 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=428, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51459)>,), {}
+
+2022-04-21 00:31:38,998 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 00:31:46,812 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51501)
+2022-04-21 00:31:47,813 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51501)>,), {}
+
+2022-04-21 00:31:47,985 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51501)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:31:49,001 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51501)>,), {}
+
+2022-04-21 00:31:49,001 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51501)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:31:49,614 INFO server.py Установлено соедение с ПК ('127.0.0.1', 51502)
+2022-04-21 00:31:49,614 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51501)>,), {}
+
+2022-04-21 00:31:49,614 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51501)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:31:50,614 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51502)>,), {}
+
+2022-04-21 00:31:50,864 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51502)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-21 00:31:51,864 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51502)>,), {}
+
+2022-04-21 00:31:51,864 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51502)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-21 00:31:52,880 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51502)>,), {}
+
+2022-04-21 00:31:52,880 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51502)>, {'response': '202', 'alert': []}), {}
+
+2022-04-21 00:32:02,931 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51502)>,), {}
+
+2022-04-21 00:32:02,931 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=320, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51501)>, {'action': 'msg', 'time': 1650483122.3375907, 'to': 'guest1', 'from': 'guest2', 'message': 'hi'}), {}
+
+2022-04-21 00:32:02,931 INFO server.py Отправлено сообщение пользователю guest1 от пользователя guest2.
+2022-04-21 00:42:35,771 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 22:51:40,565 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 22:52:33,622 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 23:21:50,868 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-21 23:22:15,648 INFO server.py Установлено соедение с ПК ('127.0.0.1', 62894)
+2022-04-21 23:22:16,787 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1312, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 62894)>,), {}
+
+2022-04-22 00:09:41,967 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-22 00:09:46,720 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63326)
+2022-04-22 00:09:47,735 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63326)>,), {}
+
+2022-04-22 00:09:47,996 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63326)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-22 00:09:49,004 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63326)>,), {}
+
+2022-04-22 00:09:49,005 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63326)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-22 00:09:50,017 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63326)>,), {}
+
+2022-04-22 00:09:50,037 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63326)>, {'response': '202', 'alert': []}), {}
+
+2022-04-22 00:09:56,909 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63327)
+2022-04-22 00:09:57,917 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63327)>,), {}
+
+2022-04-22 00:09:58,089 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63327)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-22 00:09:59,092 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63327)>,), {}
+
+2022-04-22 00:09:59,094 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63327)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-22 00:10:00,105 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63327)>,), {}
+
+2022-04-22 00:10:00,108 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63327)>, {'response': '202', 'alert': []}), {}
+
+2022-04-22 00:10:14,262 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63327)>,), {}
+
+2022-04-22 00:11:12,063 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-22 00:11:19,940 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63341)
+2022-04-22 00:11:20,963 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63341)>,), {}
+
+2022-04-22 00:11:21,235 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63341)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-22 00:11:22,246 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63341)>,), {}
+
+2022-04-22 00:11:22,248 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63341)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-22 00:11:22,789 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63343)
+2022-04-22 00:11:22,790 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63341)>,), {}
+
+2022-04-22 00:11:22,794 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63341)>, {'response': '202', 'alert': []}), {}
+
+2022-04-22 00:11:23,806 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63343)>,), {}
+
+2022-04-22 00:11:23,981 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63343)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-22 00:11:24,987 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63343)>,), {}
+
+2022-04-22 00:11:24,989 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63343)>, {'response': '202', 'alert': ['client_1', 'client_2', 'client_3', 'default_user', 'rar1', 'rar2', 'guest1', 'guest2', 'guest5', 'guest4', 'guest3']}), {}
+
+2022-04-22 00:11:25,996 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63343)>,), {}
+
+2022-04-22 00:11:26,006 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63343)>, {'response': '202', 'alert': []}), {}
+
+2022-04-22 00:11:36,109 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1296, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63343)>,), {}
+
+2022-04-22 00:17:15,322 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-22 00:17:36,406 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63389)
+2022-04-22 00:17:37,422 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>,), {}
+
+2022-04-22 00:17:38,099 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-22 00:17:39,105 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>,), {}
+
+2022-04-22 00:17:39,111 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>, {'response': '202', 'alert': ['guest1']}), {}
+
+2022-04-22 00:17:40,129 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>,), {}
+
+2022-04-22 00:17:40,144 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>, {'response': '202', 'alert': []}), {}
+
+2022-04-22 00:17:45,779 INFO server.py Установлено соедение с ПК ('127.0.0.1', 63391)
+2022-04-22 00:17:46,783 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>,), {}
+
+2022-04-22 00:17:47,163 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>, {'response': 200, 'alert': 'OK'}), {}
+
+2022-04-22 00:17:48,174 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>,), {}
+
+2022-04-22 00:17:48,177 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>, {'response': '202', 'alert': ['guest1', 'guest2']}), {}
+
+2022-04-22 00:17:49,184 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>,), {}
+
+2022-04-22 00:17:49,193 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>, {'response': '202', 'alert': []}), {}
+
+2022-04-22 00:18:03,340 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>,), {}
+
+2022-04-22 00:18:03,572 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>, {'action': 'msg', 'time': 1650568682.2600167, 'to': 'guest1', 'from': 'guest2', 'message': 'hello'}), {}
+
+2022-04-22 00:18:03,572 INFO server.py Отправлено сообщение пользователю guest1 от пользователя guest2.
+2022-04-22 00:18:21,765 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>,), {}
+
+2022-04-22 00:18:21,770 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=1308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63389)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-22 00:18:22,775 INFO server.py Клиент ('127.0.0.1', 63389) отключился от сервера.
+2022-04-22 00:18:27,996 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>,), {}
+
+2022-04-22 00:18:27,998 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=992, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 63391)>, {'response': 400, 'error': 'Bad Request'}), {}
+
+2022-04-22 00:18:29,011 INFO server.py Клиент ('127.0.0.1', 63391) отключился от сервера.
+2022-04-22 00:18:43,620 INFO server.py Запушен сервер. Адрес: . Порт: 7777
