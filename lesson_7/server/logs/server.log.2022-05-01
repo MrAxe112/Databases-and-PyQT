@@ -1,0 +1,807 @@
+2022-04-30 22:43:45,704 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-30 22:46:38,378 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-30 22:48:02,409 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-30 22:53:10,588 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-30 22:55:48,627 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-30 22:56:37,763 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-04-30 23:03:51,679 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 13:31:45,005 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 13:32:05,028 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 13:48:35,414 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 13:48:57,864 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:04:12,944 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:04:27,804 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:04:43,574 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:04:57,184 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:06:36,414 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:12:24,676 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:13:24,660 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:16:59,982 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:18:30,450 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:20:25,574 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:24:02,718 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:26:29,560 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:43:38,639 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 14:44:07,813 INFO server.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 15:19:47,857 INFO server.py Установлено соедение с ПК ('127.0.0.1', 57316)
+2022-05-01 15:19:48,927 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server.py";
+c параметрами (<socket.socket fd=972, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57316)>,), {}
+
+2022-05-01 16:20:23,340 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:21:41,850 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:22:30,971 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 57971)
+2022-05-01 16:22:31,991 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1760, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57971)>,), {}
+
+2022-05-01 16:24:09,847 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:24:21,441 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 57989)
+2022-05-01 16:24:22,466 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=644, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 57989)>,), {}
+
+2022-05-01 16:27:26,603 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:27:34,708 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58015)
+2022-05-01 16:27:35,720 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58015)>,), {}
+
+2022-05-01 16:28:03,504 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:28:14,269 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58020)
+2022-05-01 16:28:15,287 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1136, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58020)>,), {}
+
+2022-05-01 16:37:50,988 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:38:06,178 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58146)
+2022-05-01 16:38:07,192 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58146)>,), {}
+
+2022-05-01 16:41:31,203 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:41:42,794 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58177)
+2022-05-01 16:41:43,806 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58177)>,), {}
+
+2022-05-01 16:42:47,357 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:42:55,252 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58190)
+2022-05-01 16:42:56,261 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1400, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58190)>,), {}
+
+2022-05-01 16:47:59,619 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:48:11,446 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58234)
+2022-05-01 16:48:12,457 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58234)>,), {}
+
+2022-05-01 16:50:07,599 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:50:23,405 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58251)
+2022-05-01 16:50:24,419 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58251)>,), {}
+
+2022-05-01 16:57:11,345 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 16:57:23,740 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58308)
+2022-05-01 16:57:24,769 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58308)>,), {}
+
+2022-05-01 16:57:24,770 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 16:57:24,822 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 16:57:24,867 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'c5d8ec8c25cc074f1bc9ab3d294cd6731e43b30fd6f91a3b4e3043570a1e495ccd756ce0c8f7d2a6c112e088c17a267b0787e492f656599f24ec40cabe7ef73a'}
+2022-05-01 16:57:24,870 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58308)>, {'response': '511', 'bin': 'c5d8ec8c25cc074f1bc9ab3d294cd6731e43b30fd6f91a3b4e3043570a1e495ccd756ce0c8f7d2a6c112e088c17a267b0787e492f656599f24ec40cabe7ef73a'}), {}
+
+2022-05-01 16:57:24,872 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58308)>,), {}
+
+2022-05-01 16:57:24,875 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58308)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 16:57:44,906 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58319)
+2022-05-01 16:57:45,922 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58319)>,), {}
+
+2022-05-01 16:57:45,922 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 16:57:45,922 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 16:57:45,922 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'fb32612c7e2035f2a1599fe44270e4f0a7b059bd83b15a0b24c1b4b69ec86c238c6bd9e7eb2f105f3aec71fe34715300d92a72d881efdd56e298714caf3c5e8b'}
+2022-05-01 16:57:45,922 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58319)>, {'response': '511', 'bin': 'fb32612c7e2035f2a1599fe44270e4f0a7b059bd83b15a0b24c1b4b69ec86c238c6bd9e7eb2f105f3aec71fe34715300d92a72d881efdd56e298714caf3c5e8b'}), {}
+
+2022-05-01 16:57:45,937 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58319)>,), {}
+
+2022-05-01 16:57:45,937 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58319)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 16:57:55,505 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58323)
+2022-05-01 16:57:56,505 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58323)>,), {}
+
+2022-05-01 16:57:56,505 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 16:57:56,505 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 16:57:56,505 DEBUG server_class.py Auth message = {'response': '511', 'bin': '72f9854b5c19c0cca7fd01c42005fdbb3a6c52bcdb6a7da7c9d189a73de0d1008b66564612dade13844a5f965e080c35e437275fe0534cf9ab5f158bf519eb47'}
+2022-05-01 16:57:56,505 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58323)>, {'response': '511', 'bin': '72f9854b5c19c0cca7fd01c42005fdbb3a6c52bcdb6a7da7c9d189a73de0d1008b66564612dade13844a5f965e080c35e437275fe0534cf9ab5f158bf519eb47'}), {}
+
+2022-05-01 16:57:56,524 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58323)>,), {}
+
+2022-05-01 16:57:56,524 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58323)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 16:58:09,941 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58325)
+2022-05-01 16:58:10,941 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58325)>,), {}
+
+2022-05-01 16:58:10,941 DEBUG server_class.py Start auth process for {'account_name': 'user', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2CURejzePDR2bWLlyIpX\nRjf9qyDKeOjSytfKv/KIqC+03ubLA/zw6kDWpLQAQG9Vy0esryJrEBXarlA0sgvv\nO4BD74+/Ffe/+wA9Ie3omqPllkgTUa/Hn8CXNdKY/IUz0hrKh9X+k5ntuGQOVsez\nQSA6LAzRp5K68IqO/BnH269ZkkxnAdSm2sjo9kgU7fgafdPPf6jgBQJHSb5EWkvp\nm/AMeZ4WuHAeyXUVA1m68dC2MSrZGxMeMcFaTwupA/tjpQsRXsAKmVQ0Fz5fioQO\nTzoLyk2VBJAy1Lnk/iUxSl+b8n+Sli5lj2Ca/gK9tYrmH/37Yv6cyuAKsTdsJK7Y\nAQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 16:58:10,941 DEBUG server_class.py Unknown username, sending {'response': '400', 'error': 'Пользователь не зарегистрирован.'}
+2022-05-01 16:58:10,941 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1360, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58325)>, {'response': '400', 'error': 'Пользователь не зарегистрирован.'}), {}
+
+2022-05-01 16:58:21,879 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58327)
+2022-05-01 16:58:22,882 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1088, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58327)>,), {}
+
+2022-05-01 16:58:22,882 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 16:58:22,883 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 16:58:22,886 DEBUG server_class.py Auth message = {'response': '511', 'bin': '05fae0f76e9493f5c06cbca3c3ceca1156485252d9d06742b63e52c59e123cb9c96383f362a8697c87ad26571b55a4587972b5014a4a8615ef5e2c04d6baadf3'}
+2022-05-01 16:58:22,889 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1088, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58327)>, {'response': '511', 'bin': '05fae0f76e9493f5c06cbca3c3ceca1156485252d9d06742b63e52c59e123cb9c96383f362a8697c87ad26571b55a4587972b5014a4a8615ef5e2c04d6baadf3'}), {}
+
+2022-05-01 16:58:22,892 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1088, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58327)>,), {}
+
+2022-05-01 16:58:22,895 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1088, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58327)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 17:01:30,804 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 17:02:17,424 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58364)
+2022-05-01 17:02:18,431 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1348, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58364)>,), {}
+
+2022-05-01 17:02:18,432 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 17:02:18,436 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 17:02:18,437 DEBUG server_class.py Auth message = {'response': '511', 'bin': '09c8576f912056dc44710de4ee333b503046681e3d44955007b999ffdebbefe9369a0fccea4894de428eac0ce2a1a7e7562e1e023a796f894e463425b2e10246'}
+2022-05-01 17:02:18,438 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1348, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58364)>, {'response': '511', 'bin': '09c8576f912056dc44710de4ee333b503046681e3d44955007b999ffdebbefe9369a0fccea4894de428eac0ce2a1a7e7562e1e023a796f894e463425b2e10246'}), {}
+
+2022-05-01 17:02:18,439 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1348, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58364)>,), {}
+
+2022-05-01 17:02:18,440 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1348, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58364)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 17:18:36,908 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 17:18:49,092 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58489)
+2022-05-01 17:18:50,114 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58489)>,), {}
+
+2022-05-01 17:18:50,118 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 17:18:50,161 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 17:18:50,164 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'e7efe5e6b595342d2c7fa6cb6015450ce6767b486e255c98b33de2a94277d1c0ad4030f73437345f04941fe57b4c6e818bcba13de87f4fee15bf323f5d4f059c'}
+2022-05-01 17:18:50,166 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58489)>, {'response': '511', 'bin': 'e7efe5e6b595342d2c7fa6cb6015450ce6767b486e255c98b33de2a94277d1c0ad4030f73437345f04941fe57b4c6e818bcba13de87f4fee15bf323f5d4f059c'}), {}
+
+2022-05-01 17:18:50,167 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58489)>,), {}
+
+2022-05-01 17:18:50,170 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58489)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 17:20:45,917 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 17:20:57,015 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58507)
+2022-05-01 17:20:58,028 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58507)>,), {}
+
+2022-05-01 17:20:58,031 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 17:20:58,076 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 17:20:58,078 DEBUG server_class.py Auth message = {'response': '511', 'bin': '68179f3f3a06bb37ec70122323c4a96cfa15d0677b0bc3c560f515d31ff9209047ef17949568b66af28a1a3638d23f1d87b43271b088b279b3f11088074ef6f6'}
+2022-05-01 17:20:58,080 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58507)>, {'response': '511', 'bin': '68179f3f3a06bb37ec70122323c4a96cfa15d0677b0bc3c560f515d31ff9209047ef17949568b66af28a1a3638d23f1d87b43271b088b279b3f11088074ef6f6'}), {}
+
+2022-05-01 17:20:58,082 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58507)>,), {}
+
+2022-05-01 17:20:58,084 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58507)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 17:24:30,471 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58535)
+2022-05-01 17:24:31,478 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1728, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58535)>,), {}
+
+2022-05-01 17:24:31,481 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 17:24:31,486 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 17:24:31,488 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'f74704cd4476b6d81e6651ad541c31149ffef3c258ce6497c6b2ab7265475f4280ccb58f3a25c132fedd4129a1b0080f7cfd4ae8ec1e4bba62acaefdcb3180bc'}
+2022-05-01 17:24:31,492 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1728, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58535)>, {'response': '511', 'bin': 'f74704cd4476b6d81e6651ad541c31149ffef3c258ce6497c6b2ab7265475f4280ccb58f3a25c132fedd4129a1b0080f7cfd4ae8ec1e4bba62acaefdcb3180bc'}), {}
+
+2022-05-01 17:24:31,496 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1728, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58535)>,), {}
+
+2022-05-01 17:24:31,499 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1728, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58535)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:11:09,658 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:11:17,660 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58933)
+2022-05-01 18:11:18,679 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58933)>,), {}
+
+2022-05-01 18:11:18,681 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:11:18,722 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:11:18,725 DEBUG server_class.py Auth message = {'response': '511', 'bin': '12f5df2e118a4fd65eda7b7247fda455333b26f48663693d43e12c11eb40e6a0a0db87b64476ad774e6cab36c605b63225cb48b7534caee82a143af4e5228504'}
+2022-05-01 18:11:18,726 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58933)>, {'response': '511', 'bin': '12f5df2e118a4fd65eda7b7247fda455333b26f48663693d43e12c11eb40e6a0a0db87b64476ad774e6cab36c605b63225cb48b7534caee82a143af4e5228504'}), {}
+
+2022-05-01 18:11:18,727 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58933)>,), {}
+
+2022-05-01 18:11:18,728 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1304, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58933)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:12:50,963 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:12:56,898 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58944)
+2022-05-01 18:12:57,925 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1252, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58944)>,), {}
+
+2022-05-01 18:12:57,928 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:12:57,973 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:12:57,976 DEBUG server_class.py Auth message = {'response': '511', 'bin': '4279611449bf74d7ec4416b3837ce439ce667526a49411a1d0953714609b184ce1397e8fb4b74fd4c4f4e779ea882f2215f4acce1cd25be1ed9e480ac519e74d'}
+2022-05-01 18:12:57,978 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1252, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58944)>, {'response': '511', 'bin': '4279611449bf74d7ec4416b3837ce439ce667526a49411a1d0953714609b184ce1397e8fb4b74fd4c4f4e779ea882f2215f4acce1cd25be1ed9e480ac519e74d'}), {}
+
+2022-05-01 18:12:57,981 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1252, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58944)>,), {}
+
+2022-05-01 18:12:57,983 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1252, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58944)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:16:09,101 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:16:16,663 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 58980)
+2022-05-01 18:16:17,675 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58980)>,), {}
+
+2022-05-01 18:16:17,675 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:16:17,697 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:16:17,699 DEBUG server_class.py Auth message = {'response': '511', 'bin': '8dd1db1a8493fdc8c47ec97b823549b557de09627efdd973dbc56220bb88a871a7e26153d9aaf1feb8b57cc3eccccab7e60f1003118f028fb3f1705a3142044a'}
+2022-05-01 18:16:17,701 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58980)>, {'response': '511', 'bin': '8dd1db1a8493fdc8c47ec97b823549b557de09627efdd973dbc56220bb88a871a7e26153d9aaf1feb8b57cc3eccccab7e60f1003118f028fb3f1705a3142044a'}), {}
+
+2022-05-01 18:16:17,703 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58980)>,), {}
+
+2022-05-01 18:16:17,704 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 58980)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:20:10,187 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:20:23,886 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59013)
+2022-05-01 18:20:24,897 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59013)>,), {}
+
+2022-05-01 18:20:24,899 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:20:24,931 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:20:24,941 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'b1a44d1a47754f67c352f75e211cf464149086a1b4ff2c9d45d91decdc65585ff72b26e88996aebf7b09ecf6fe13de893dc4546388dcf34893c8c43422eb403b'}
+2022-05-01 18:20:24,943 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59013)>, {'response': '511', 'bin': 'b1a44d1a47754f67c352f75e211cf464149086a1b4ff2c9d45d91decdc65585ff72b26e88996aebf7b09ecf6fe13de893dc4546388dcf34893c8c43422eb403b'}), {}
+
+2022-05-01 18:20:24,946 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59013)>,), {}
+
+2022-05-01 18:20:24,949 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1392, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59013)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:22:33,752 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:22:38,825 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59029)
+2022-05-01 18:22:39,830 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59029)>,), {}
+
+2022-05-01 18:22:39,831 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:22:39,854 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:22:39,857 DEBUG server_class.py Auth message = {'response': '511', 'bin': '9612c921f4929c212b664bd36078d13ca37173eda76ed27800ce8c6ad43ed62af3dc7b9fd8cd4810ecfa3ba916d6bfbed9bd5355c9e2996fb027d457eba9f148'}
+2022-05-01 18:22:39,859 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59029)>, {'response': '511', 'bin': '9612c921f4929c212b664bd36078d13ca37173eda76ed27800ce8c6ad43ed62af3dc7b9fd8cd4810ecfa3ba916d6bfbed9bd5355c9e2996fb027d457eba9f148'}), {}
+
+2022-05-01 18:22:39,862 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59029)>,), {}
+
+2022-05-01 18:22:39,866 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59029)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:27:47,170 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:27:54,626 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59069)
+2022-05-01 18:27:55,646 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59069)>,), {}
+
+2022-05-01 18:27:55,650 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:27:55,698 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:27:55,702 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'ca0a33046392fe80d66df65003cd657a2478eafe629c5301449edacbd5c04c5c1a820f19f25cc2f2b4c6ad936651df6df5e68c8e6f7ea7c46b281d342c78ecde'}
+2022-05-01 18:27:55,706 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59069)>, {'response': '511', 'bin': 'ca0a33046392fe80d66df65003cd657a2478eafe629c5301449edacbd5c04c5c1a820f19f25cc2f2b4c6ad936651df6df5e68c8e6f7ea7c46b281d342c78ecde'}), {}
+
+2022-05-01 18:27:55,710 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59069)>,), {}
+
+2022-05-01 18:27:55,713 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59069)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:29:12,905 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:29:19,505 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59083)
+2022-05-01 18:29:20,518 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59083)>,), {}
+
+2022-05-01 18:29:20,520 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:29:20,541 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:29:20,543 DEBUG server_class.py Auth message = {'response': '511', 'bin': '72225453bdb061b667525b590ed799d08469a8f1b4209b8d9a489aabf0473cb06d3c915a6e57db090ab001d9f4072f91c0f5904b7148672db9379d0f1d394534'}
+2022-05-01 18:29:20,545 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59083)>, {'response': '511', 'bin': '72225453bdb061b667525b590ed799d08469a8f1b4209b8d9a489aabf0473cb06d3c915a6e57db090ab001d9f4072f91c0f5904b7148672db9379d0f1d394534'}), {}
+
+2022-05-01 18:29:20,547 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59083)>,), {}
+
+2022-05-01 18:29:20,549 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59083)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:30:03,170 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:30:11,072 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59093)
+2022-05-01 18:30:12,087 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=960, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59093)>,), {}
+
+2022-05-01 18:30:12,089 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:30:12,115 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:30:12,118 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'fc1fee557ddc165115ef883d9eb0a0324cbf65a848b03a53ba43ecdb946c14a777dc9f049db31c03cfb381fa4cd4f399af5772aeb7a154e9edbcf1067cceb878'}
+2022-05-01 18:30:12,119 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=960, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59093)>, {'response': '511', 'bin': 'fc1fee557ddc165115ef883d9eb0a0324cbf65a848b03a53ba43ecdb946c14a777dc9f049db31c03cfb381fa4cd4f399af5772aeb7a154e9edbcf1067cceb878'}), {}
+
+2022-05-01 18:30:12,123 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=960, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59093)>,), {}
+
+2022-05-01 18:30:12,125 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=960, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59093)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:31:06,171 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:31:12,948 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59099)
+2022-05-01 18:31:13,963 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59099)>,), {}
+
+2022-05-01 18:31:13,967 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:31:14,003 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:31:14,005 DEBUG server_class.py Auth message = {'response': '511', 'bin': '3ea3778fc7c9dea9af62aecc5546a2582373224ad97e9e580635134b882813ce3d18b80f4634561c0c72fc6d31684f458a71bdf72d3d95e4659f634029ea3474'}
+2022-05-01 18:31:14,007 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59099)>, {'response': '511', 'bin': '3ea3778fc7c9dea9af62aecc5546a2582373224ad97e9e580635134b882813ce3d18b80f4634561c0c72fc6d31684f458a71bdf72d3d95e4659f634029ea3474'}), {}
+
+2022-05-01 18:31:14,009 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59099)>,), {}
+
+2022-05-01 18:31:14,012 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59099)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:32:35,581 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:32:41,761 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59115)
+2022-05-01 18:32:42,779 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>,), {}
+
+2022-05-01 18:32:42,780 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:32:42,813 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:32:42,815 DEBUG server_class.py Auth message = {'response': '511', 'bin': '93936b211416180c2962eb96503738170e9266c134d1289580eab511908af83577d32452ead086cd13e3307fd6b7ea8cf93be561406f3a487b29435cc1cd3e43'}
+2022-05-01 18:32:42,816 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>, {'response': '511', 'bin': '93936b211416180c2962eb96503738170e9266c134d1289580eab511908af83577d32452ead086cd13e3307fd6b7ea8cf93be561406f3a487b29435cc1cd3e43'}), {}
+
+2022-05-01 18:32:42,818 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>,), {}
+
+2022-05-01 18:32:42,820 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:32:43,986 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>,), {}
+
+2022-05-01 18:32:43,991 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>, {'response': '202', 'alert': ['user1', 'u1']}), {}
+
+2022-05-01 18:32:44,996 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>,), {}
+
+2022-05-01 18:32:45,001 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>, {'response': '202', 'alert': []}), {}
+
+2022-05-01 18:35:17,522 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59134)
+2022-05-01 18:35:18,528 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59134)>,), {}
+
+2022-05-01 18:35:18,531 DEBUG server_class.py Start auth process for {'account_name': 'user1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyxee1AbCRrz0I4HZu/Dr\nfrXf6UqQlviZYloCgYf1Js8zULXVML1xegORFcU0UJFuPeBlozmFgc2jjCd7wLfT\nGocleqYQYdjLvXBRri91twnZJQPLNNtoUla47gZ6aZo0YRbHSk4rzqFgasl7ogZN\n7u1+RXkRIJT7cUe8wfHNQJ8PIoz3aimEz6gxwhbDoxaYrCR4p83x+HT+VBq74Hl/\nMK+B3/C5d75hDOWjxJiWRkqv9wGJn6SM8QbbNaUXJYw47kjEUDGOu1sgzyTv5K1m\nad3UDWTHk0GHTWb0xZqsXq9lqJVpKJDRz/xJ0uFThH+OW5zZfrDTWK2/GhH43QNn\ndwIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:35:18,535 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:35:18,539 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'ca48f4f021d7c01e635341653aaecc02eaa2180bb228eaf3c84448371db08dba117da784c5671a4835227708bfac1f80a1828ada3da5463d4aadb8ef5b03f506'}
+2022-05-01 18:35:18,544 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59134)>, {'response': '511', 'bin': 'ca48f4f021d7c01e635341653aaecc02eaa2180bb228eaf3c84448371db08dba117da784c5671a4835227708bfac1f80a1828ada3da5463d4aadb8ef5b03f506'}), {}
+
+2022-05-01 18:35:18,553 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59134)>,), {}
+
+2022-05-01 18:35:18,565 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59134)>, {'response': '400', 'error': 'Неверный пароль.'}), {}
+
+2022-05-01 18:35:35,722 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>,), {}
+
+2022-05-01 18:35:35,723 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59115)>, {'response': '400', 'error': 'Bad Request'}), {}
+
+2022-05-01 18:35:36,775 INFO server_class.py Клиент ('127.0.0.1', 59115) отключился от сервера.
+2022-05-01 18:40:06,036 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:40:13,402 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59182)
+2022-05-01 18:40:14,435 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>,), {}
+
+2022-05-01 18:40:14,439 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:40:14,476 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:40:14,562 DEBUG server_class.py Auth message = {'response': '511', 'bin': '400c3e45021a7b292a5c9b653ad2f1fd721620dc123d1416d6daba20a2a158f865290d46fd3eadd64d4e33156f75f6371be90946001a6ee536a309b4966db5ef'}
+2022-05-01 18:40:14,567 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '511', 'bin': '400c3e45021a7b292a5c9b653ad2f1fd721620dc123d1416d6daba20a2a158f865290d46fd3eadd64d4e33156f75f6371be90946001a6ee536a309b4966db5ef'}), {}
+
+2022-05-01 18:40:14,577 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>,), {}
+
+2022-05-01 18:40:14,583 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:40:15,752 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>,), {}
+
+2022-05-01 18:40:15,760 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '202', 'alert': ['user1', 'u1']}), {}
+
+2022-05-01 18:40:16,779 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>,), {}
+
+2022-05-01 18:40:16,794 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '202', 'alert': []}), {}
+
+2022-05-01 18:40:26,882 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>,), {}
+
+2022-05-01 18:40:27,035 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:40:40,010 DEBUG decorators.py Функция "send_message" вызвана из функции "main()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '205'}), {}
+
+2022-05-01 18:40:41,093 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>,), {}
+
+2022-05-01 18:40:41,095 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 18:40:42,100 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>,), {}
+
+2022-05-01 18:40:42,110 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'response': '202', 'alert': ['user1']}), {}
+
+2022-05-01 18:41:31,551 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59196)
+2022-05-01 18:41:32,558 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>,), {}
+
+2022-05-01 18:41:32,559 DEBUG server_class.py Start auth process for {'account_name': 'u2', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk/XHbQeVv2E4uxBHh0or\nSJL4XtqaNPIoNOwIpAgVDLPQDieDYyY1hGnqulzI2hA7ZyG2oo5HmY+jwt1sQSzA\ni1KfN7ogrKs8Ny6RrimLtEIV1n3L2MVt5VZb5Uu7447LBlmsoRA4cYAnMQgO0Zuf\ngNQOYXVC1UP3uAf63HEB4JAvJ1D0yE2BAR0ot9hrXBR/YKOrXUR8u7/okAB0YHpj\n7H8BNS3vT9SUr4ssOaa84Gd8wlK8rY6/muhjckwOtWYKmZiPFl7klWh4N7n2Eb7Q\nLlHC7qgcyN4OdaDjfY0+pz+6/Vm3HkGyPQ6TFkLGW5ib4TvVrvuEBnuhPRZ4zHyL\nrQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:41:32,560 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:41:32,562 DEBUG server_class.py Auth message = {'response': '511', 'bin': '8c0c425f1c1a282cb5a69bac5f520e807583c18d8d2cc4bd15d70cf7fea461fc4605c0e39b015d606a72ce667789470c7591849d17b1bb5f892e196daa2dd8c6'}
+2022-05-01 18:41:32,563 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>, {'response': '511', 'bin': '8c0c425f1c1a282cb5a69bac5f520e807583c18d8d2cc4bd15d70cf7fea461fc4605c0e39b015d606a72ce667789470c7591849d17b1bb5f892e196daa2dd8c6'}), {}
+
+2022-05-01 18:41:32,565 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>,), {}
+
+2022-05-01 18:41:32,568 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:41:33,758 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>,), {}
+
+2022-05-01 18:41:33,765 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 18:41:34,782 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>,), {}
+
+2022-05-01 18:41:34,789 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>, {'response': '202', 'alert': []}), {}
+
+2022-05-01 18:41:39,838 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>,), {}
+
+2022-05-01 18:41:39,968 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:41:46,019 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1788, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59196)>,), {}
+
+2022-05-01 18:41:46,170 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1324, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59182)>, {'action': 'msg', 'time': 1651412505.8415284, 'to': 'u1', 'from': 'u2', 'message': 'hi1'}), {}
+
+2022-05-01 18:41:46,170 INFO server_class.py Отправлено сообщение пользователю u1 от пользователя u2.
+2022-05-01 18:42:55,966 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:43:09,047 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59208)
+2022-05-01 18:43:10,073 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>,), {}
+
+2022-05-01 18:43:10,076 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:43:10,108 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:43:10,111 DEBUG server_class.py Auth message = {'response': '511', 'bin': '75291d23fac30df69acbb5ab19b3a7cda55ce9039424052aa0d1b65fe221a62d857fbb6cbc06707ea7992dbe9d92f729018859cc2766a7eedc127c43ab368b5e'}
+2022-05-01 18:43:10,113 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>, {'response': '511', 'bin': '75291d23fac30df69acbb5ab19b3a7cda55ce9039424052aa0d1b65fe221a62d857fbb6cbc06707ea7992dbe9d92f729018859cc2766a7eedc127c43ab368b5e'}), {}
+
+2022-05-01 18:43:10,115 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>,), {}
+
+2022-05-01 18:43:10,118 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:43:11,268 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>,), {}
+
+2022-05-01 18:43:11,278 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 18:43:12,291 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>,), {}
+
+2022-05-01 18:43:12,308 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>, {'response': '202', 'alert': ['user1']}), {}
+
+2022-05-01 18:43:19,656 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59210)
+2022-05-01 18:43:20,670 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>,), {}
+
+2022-05-01 18:43:20,672 DEBUG server_class.py Start auth process for {'account_name': 'u2', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk/XHbQeVv2E4uxBHh0or\nSJL4XtqaNPIoNOwIpAgVDLPQDieDYyY1hGnqulzI2hA7ZyG2oo5HmY+jwt1sQSzA\ni1KfN7ogrKs8Ny6RrimLtEIV1n3L2MVt5VZb5Uu7447LBlmsoRA4cYAnMQgO0Zuf\ngNQOYXVC1UP3uAf63HEB4JAvJ1D0yE2BAR0ot9hrXBR/YKOrXUR8u7/okAB0YHpj\n7H8BNS3vT9SUr4ssOaa84Gd8wlK8rY6/muhjckwOtWYKmZiPFl7klWh4N7n2Eb7Q\nLlHC7qgcyN4OdaDjfY0+pz+6/Vm3HkGyPQ6TFkLGW5ib4TvVrvuEBnuhPRZ4zHyL\nrQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:43:20,674 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:43:20,676 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'bb18b07d27c453617f2dc6c9607cc934e18cb147dcd03bda871b00a0579a7fb8c229d6307ba569bc715c64d7dd2bf30801291058f3c50c44493de8a01fff9a9f'}
+2022-05-01 18:43:20,678 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>, {'response': '511', 'bin': 'bb18b07d27c453617f2dc6c9607cc934e18cb147dcd03bda871b00a0579a7fb8c229d6307ba569bc715c64d7dd2bf30801291058f3c50c44493de8a01fff9a9f'}), {}
+
+2022-05-01 18:43:20,682 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>,), {}
+
+2022-05-01 18:43:20,687 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:43:21,851 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>,), {}
+
+2022-05-01 18:43:21,857 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 18:43:22,867 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>,), {}
+
+2022-05-01 18:43:22,877 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>, {'response': '202', 'alert': ['u1']}), {}
+
+2022-05-01 18:43:46,114 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1364, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59210)>,), {}
+
+2022-05-01 18:43:46,343 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>, {'action': 'msg', 'time': 1651412625.8348112, 'to': 'u1', 'from': 'u2', 'message': '2'}), {}
+
+2022-05-01 18:43:46,343 INFO server_class.py Отправлено сообщение пользователю u1 от пользователя u2.
+2022-05-01 18:43:55,390 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>,), {}
+
+2022-05-01 18:43:55,651 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:44:18,899 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1336, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59208)>,), {}
+
+2022-05-01 18:56:53,679 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 18:57:02,329 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59405)
+2022-05-01 18:57:03,343 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>,), {}
+
+2022-05-01 18:57:03,345 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:57:03,372 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:57:03,375 DEBUG server_class.py Auth message = {'response': '511', 'bin': '815325857c2372ddb1d3e6971ed4417575fca71303b1bd8043f260945a319419424f272e94b0fdfd1454681d5f94775ad28111987853be13e8adc5c4012f6355'}
+2022-05-01 18:57:03,377 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>, {'response': '511', 'bin': '815325857c2372ddb1d3e6971ed4417575fca71303b1bd8043f260945a319419424f272e94b0fdfd1454681d5f94775ad28111987853be13e8adc5c4012f6355'}), {}
+
+2022-05-01 18:57:03,379 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>,), {}
+
+2022-05-01 18:57:03,381 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:57:04,616 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>,), {}
+
+2022-05-01 18:57:04,624 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 18:57:05,630 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>,), {}
+
+2022-05-01 18:57:05,641 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>, {'response': '202', 'alert': ['user1', 'u2']}), {}
+
+2022-05-01 18:57:11,856 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59411)
+2022-05-01 18:57:12,865 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>,), {}
+
+2022-05-01 18:57:12,869 DEBUG server_class.py Start auth process for {'account_name': 'u2', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk/XHbQeVv2E4uxBHh0or\nSJL4XtqaNPIoNOwIpAgVDLPQDieDYyY1hGnqulzI2hA7ZyG2oo5HmY+jwt1sQSzA\ni1KfN7ogrKs8Ny6RrimLtEIV1n3L2MVt5VZb5Uu7447LBlmsoRA4cYAnMQgO0Zuf\ngNQOYXVC1UP3uAf63HEB4JAvJ1D0yE2BAR0ot9hrXBR/YKOrXUR8u7/okAB0YHpj\n7H8BNS3vT9SUr4ssOaa84Gd8wlK8rY6/muhjckwOtWYKmZiPFl7klWh4N7n2Eb7Q\nLlHC7qgcyN4OdaDjfY0+pz+6/Vm3HkGyPQ6TFkLGW5ib4TvVrvuEBnuhPRZ4zHyL\nrQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 18:57:12,873 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 18:57:12,876 DEBUG server_class.py Auth message = {'response': '511', 'bin': '07b8a783a9b0815fca03cc82a72487adb7b7556095728f6f7090007c17e6f00e2d712cabfccc4a9acde678a06c7baf7b7a3a9a78a8c71ff6a9af80168a99ccf2'}
+2022-05-01 18:57:12,881 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>, {'response': '511', 'bin': '07b8a783a9b0815fca03cc82a72487adb7b7556095728f6f7090007c17e6f00e2d712cabfccc4a9acde678a06c7baf7b7a3a9a78a8c71ff6a9af80168a99ccf2'}), {}
+
+2022-05-01 18:57:12,888 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>,), {}
+
+2022-05-01 18:57:12,897 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 18:57:14,057 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>,), {}
+
+2022-05-01 18:57:14,058 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 18:57:15,073 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>,), {}
+
+2022-05-01 18:57:15,077 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>, {'response': '202', 'alert': ['u1']}), {}
+
+2022-05-01 18:57:35,289 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1132, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59411)>,), {}
+
+2022-05-01 18:57:35,452 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>, {'action': 'msg', 'time': 1651413454.892761, 'to': 'u1', 'from': 'u2', 'message': '3'}), {}
+
+2022-05-01 18:57:35,452 INFO server_class.py Отправлено сообщение пользователю u1 от пользователя u2.
+2022-05-01 18:57:53,591 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1184, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59405)>,), {}
+
+2022-05-01 19:12:19,062 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 19:12:25,537 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59569)
+2022-05-01 19:12:26,554 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>,), {}
+
+2022-05-01 19:12:26,555 DEBUG server_class.py Start auth process for {'account_name': 'u2', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk/XHbQeVv2E4uxBHh0or\nSJL4XtqaNPIoNOwIpAgVDLPQDieDYyY1hGnqulzI2hA7ZyG2oo5HmY+jwt1sQSzA\ni1KfN7ogrKs8Ny6RrimLtEIV1n3L2MVt5VZb5Uu7447LBlmsoRA4cYAnMQgO0Zuf\ngNQOYXVC1UP3uAf63HEB4JAvJ1D0yE2BAR0ot9hrXBR/YKOrXUR8u7/okAB0YHpj\n7H8BNS3vT9SUr4ssOaa84Gd8wlK8rY6/muhjckwOtWYKmZiPFl7klWh4N7n2Eb7Q\nLlHC7qgcyN4OdaDjfY0+pz+6/Vm3HkGyPQ6TFkLGW5ib4TvVrvuEBnuhPRZ4zHyL\nrQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 19:12:26,576 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 19:12:26,578 DEBUG server_class.py Auth message = {'response': '511', 'bin': '9ad710f39a0cbd6b448db7142baff848a94ed8081731683e65243c9cb8b4112448357d2dd9feff9ebc733cb105db687a8aded5e0c304136d989aef2ff3290069'}
+2022-05-01 19:12:26,579 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>, {'response': '511', 'bin': '9ad710f39a0cbd6b448db7142baff848a94ed8081731683e65243c9cb8b4112448357d2dd9feff9ebc733cb105db687a8aded5e0c304136d989aef2ff3290069'}), {}
+
+2022-05-01 19:12:26,580 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>,), {}
+
+2022-05-01 19:12:26,582 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 19:12:27,854 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>,), {}
+
+2022-05-01 19:12:27,859 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 19:12:28,872 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>,), {}
+
+2022-05-01 19:12:28,879 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>, {'response': '202', 'alert': ['u1']}), {}
+
+2022-05-01 19:12:36,377 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59571)
+2022-05-01 19:12:37,391 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>,), {}
+
+2022-05-01 19:12:37,392 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 19:12:37,394 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 19:12:37,395 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'f68219e3e3f76ccb285de245f793ad04bccb047b5a3a97b21046f302ef006f7409c5f667dcdfb14caf36ed34a12336b5389017e572fcf63a0ff7ebdff6aa4d4a'}
+2022-05-01 19:12:37,397 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>, {'response': '511', 'bin': 'f68219e3e3f76ccb285de245f793ad04bccb047b5a3a97b21046f302ef006f7409c5f667dcdfb14caf36ed34a12336b5389017e572fcf63a0ff7ebdff6aa4d4a'}), {}
+
+2022-05-01 19:12:37,398 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>,), {}
+
+2022-05-01 19:12:37,401 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 19:12:38,708 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>,), {}
+
+2022-05-01 19:12:38,711 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>, {'response': '202', 'alert': ['user1', 'u1', 'u2']}), {}
+
+2022-05-01 19:12:39,713 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>,), {}
+
+2022-05-01 19:12:39,717 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>, {'response': '202', 'alert': ['user1', 'u2']}), {}
+
+2022-05-01 19:12:45,757 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>,), {}
+
+2022-05-01 19:12:45,998 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>, {'action': 'msg', 'time': 1651414365.1343386, 'to': 'u2', 'from': 'u1', 'message': '5'}), {}
+
+2022-05-01 19:12:45,998 INFO server_class.py Отправлено сообщение пользователю u2 от пользователя u1.
+2022-05-01 19:13:01,106 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>,), {}
+
+2022-05-01 19:13:01,327 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>, {'action': 'msg', 'time': 1651414380.0455046, 'to': 'u1', 'from': 'u2', 'message': '6'}), {}
+
+2022-05-01 19:13:01,327 INFO server_class.py Отправлено сообщение пользователю u1 от пользователя u2.
+2022-05-01 19:13:13,399 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59571)>,), {}
+
+2022-05-01 19:13:13,774 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>, {'action': 'msg', 'time': 1651414392.6468155, 'to': 'u2', 'from': 'u1', 'message': '7'}), {}
+
+2022-05-01 19:13:13,775 INFO server_class.py Отправлено сообщение пользователю u2 от пользователя u1.
+2022-05-01 19:13:26,900 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1332, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59569)>,), {}
+
+2022-05-01 19:18:47,508 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 19:21:56,527 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 19:47:33,985 INFO server_class.py Запушен сервер. Адрес: . Порт: 7777
+2022-05-01 19:47:57,584 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59918)
+2022-05-01 19:47:58,601 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>,), {}
+
+2022-05-01 19:47:58,604 DEBUG server_class.py Start auth process for {'account_name': 'u2', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk/XHbQeVv2E4uxBHh0or\nSJL4XtqaNPIoNOwIpAgVDLPQDieDYyY1hGnqulzI2hA7ZyG2oo5HmY+jwt1sQSzA\ni1KfN7ogrKs8Ny6RrimLtEIV1n3L2MVt5VZb5Uu7447LBlmsoRA4cYAnMQgO0Zuf\ngNQOYXVC1UP3uAf63HEB4JAvJ1D0yE2BAR0ot9hrXBR/YKOrXUR8u7/okAB0YHpj\n7H8BNS3vT9SUr4ssOaa84Gd8wlK8rY6/muhjckwOtWYKmZiPFl7klWh4N7n2Eb7Q\nLlHC7qgcyN4OdaDjfY0+pz+6/Vm3HkGyPQ6TFkLGW5ib4TvVrvuEBnuhPRZ4zHyL\nrQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 19:47:58,633 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 19:47:58,635 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'a1b0db9a04a17e9e6cd8f32f441b62de724f58a63b5d96b778aecca9a921e17a70dd67c01722d83dadab93fc6178e6421e142399fd6e0da2b8f66a1b4aa58486'}
+2022-05-01 19:47:58,637 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>, {'response': '511', 'bin': 'a1b0db9a04a17e9e6cd8f32f441b62de724f58a63b5d96b778aecca9a921e17a70dd67c01722d83dadab93fc6178e6421e142399fd6e0da2b8f66a1b4aa58486'}), {}
+
+2022-05-01 19:47:58,640 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>,), {}
+
+2022-05-01 19:47:58,643 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 19:47:59,783 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>,), {}
+
+2022-05-01 19:47:59,790 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>, {'response': '202', 'alert': ['u1', 'u2']}), {}
+
+2022-05-01 19:48:00,795 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>,), {}
+
+2022-05-01 19:48:00,802 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>, {'response': '202', 'alert': ['u1']}), {}
+
+2022-05-01 19:48:09,156 INFO server_class.py Установлено соедение с ПК ('127.0.0.1', 59920)
+2022-05-01 19:48:10,167 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>,), {}
+
+2022-05-01 19:48:10,170 DEBUG server_class.py Start auth process for {'account_name': 'u1', 'public_key': '-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvpoRU15xEtgcGCcL2E5S\nEWum5wggKOkuoZZn1yfvbLOgDZEtBFv5TohSmzdh4kokHbCvYBboKmttmsxnfuRH\nfahRlaJloRklkYgCkmW8xgM75S0wyozYPE2JwF43QSSihbcaNneqNDFqE/Gy/F/n\ncyfy+DXOJipfsvhlqC7zxvDElb1hlRWpuKBnxb8mAQZUTG97a3yO3kw82Y2m0sVr\nK/4J61x6gR3iBmAcWuJSce93jMLuV3CFWt2ccXl/bbSWDV4DM2xKhUigcAoFaWdV\nDiO1EIZODYiYkUruSALk3K24Mik/bVvdd4GTtIaQ7oyUfAqFKc3Qa+yCsuWlM3DS\nwQIDAQAB\n-----END PUBLIC KEY-----'}
+2022-05-01 19:48:10,174 DEBUG server_class.py Correct username, starting passwd check.
+2022-05-01 19:48:10,178 DEBUG server_class.py Auth message = {'response': '511', 'bin': 'b329e855cfc797eb0a60e1cf53a764bc86a33d77f494f0d0e64b1bfa7eadbcc3ff190311d3159efd31a49256f6bd6f4fae115b889e383d73f901b0634fc9372e'}
+2022-05-01 19:48:10,183 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>, {'response': '511', 'bin': 'b329e855cfc797eb0a60e1cf53a764bc86a33d77f494f0d0e64b1bfa7eadbcc3ff190311d3159efd31a49256f6bd6f4fae115b889e383d73f901b0634fc9372e'}), {}
+
+2022-05-01 19:48:10,192 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>,), {}
+
+2022-05-01 19:48:10,203 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>, {'response': '200', 'alert': 'OK'}), {}
+
+2022-05-01 19:48:11,367 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>,), {}
+
+2022-05-01 19:48:11,372 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>, {'response': '202', 'alert': ['u1', 'u2']}), {}
+
+2022-05-01 19:48:12,382 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>,), {}
+
+2022-05-01 19:48:12,389 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>, {'response': '202', 'alert': ['u2']}), {}
+
+2022-05-01 19:48:28,559 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1328, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59920)>,), {}
+
+2022-05-01 19:48:28,705 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>, {'action': 'msg', 'time': 1651416508.0531166, 'to': 'u2', 'from': 'u1', 'message': '9'}), {}
+
+2022-05-01 19:48:28,705 INFO server_class.py Отправлено сообщение пользователю u2 от пользователя u1.
+2022-05-01 19:48:42,855 DEBUG decorators.py Функция "get_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>,), {}
+
+2022-05-01 19:48:42,858 DEBUG decorators.py Функция "send_message" вызвана из функции "self._bootstrap_inner()".модуля "server_class.py";
+c параметрами (<socket.socket fd=1340, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 59918)>, {'response': '400', 'error': 'Bad Request'}), {}
+
+2022-05-01 19:48:43,869 ERROR server_class.py Ошибка при декодировании файла. Ошибка Expecting value: line 1 column 1 (char 0)
+2022-05-01 19:48:44,884 ERROR server_class.py Ошибка при декодировании файла. Ошибка Expecting value: line 1 column 1 (char 0)
